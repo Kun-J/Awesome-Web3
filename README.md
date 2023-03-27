@@ -91,6 +91,10 @@
 *You learn about thirdweb in the beginning. Rest of the tutorial is for web development*
   - 📄[https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb](https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb)
 
+- ### Polybase
+  - 📄[Official Documentation](https://docs.polybase.xyz)
+  - ▶️[NFT Gated Chat App using Polybase](https://www.youtube.com/watch?v=YzPfCLQBGTI&t=117s)
+
 - ### Hardhat
     - 📄[Official Documentation](https://hardhat.org/getting-started/)
     - ▶️[Hardhat Tutorial | Smart contract framework](https://www.youtube.com/watch?v=9Qpi80dQsGU)
